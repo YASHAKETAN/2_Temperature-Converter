@@ -9,13 +9,14 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    background: #2c3d4f;
 }
 
 .container {
     max-width: 450px;
     background: skyblue;
     border-radius: 8px;
-    box-shadow: 0 0 15px 3px, rgba(0,0,0,0.4);
+    box-shadow: 0 15px 0 3px, rgba(249, 248, 248, 0.838);
     font-family: 'Lucida Sans', sans-serif;
     padding: 20px;
 }
